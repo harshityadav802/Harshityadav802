@@ -21,7 +21,7 @@ Pre-final year B.Tech IT student specialising in **Machine Learning, Deep Learni
 
 **IEEE-published researcher** (ICCCA 2025) with hands-on experience in RAG pipelines, computer vision, and tabular ML. Currently building a multilingual legal document QA system using RAG + FAISS + Hugging Face.
 
-> Open to **AI · ML · Data Science · NLP · Research** internships — Summer/Fall 2025
+> Open to **AI · ML · Data Science · NLP · Research** internships — Summer/Fall 2026
 
 ---
 
