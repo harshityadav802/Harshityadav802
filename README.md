@@ -28,7 +28,7 @@ Pre-final year B.Tech IT student specialising in **Machine Learning, Deep Learni
 ## Featured Projects
 
 ### Legal Document Segmentation & Multilingual QA System
-> *Jan 2026 – Present*
+> *Jan 2026 – May 2026*
 
 Building a production-grade NLP pipeline for Indian legal document analysis.
 
